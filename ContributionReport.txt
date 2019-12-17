@@ -1,0 +1,13 @@
+Omar Yusuf Farhad- Gathered and processed data from the API, set up the routers for navigation, tested the app 
+				thoroughly and fixed bugs.
+
+Anwar Abdi- Contributed to the CSS files, created dynamic backgrounds for the final page, implemented the routers for 
+			navigation to all pages and contributed to fixing bugs.
+
+Fashal Bhuiyan- Implemented the navigation buttons(home button, more options button), developed the CSS files and 
+			contributed to design ideas
+
+Yasmin Aumeeruddy-Presented API data for the final page, developed the form for the more options page, created buttons 
+				  for the home page using GIMP. 
+
+Aisha Munze- Did not attend any meetings or contribute to the development of the app.-
